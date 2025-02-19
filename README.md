@@ -1,3 +1,3 @@
 # Sistema bancário realizado em python
 
-## Projeto criado para treinar Programação Orientada a Objetos
+Projeto criado para treinar Programação Orientada a Objetos
